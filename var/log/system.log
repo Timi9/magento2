@@ -1,0 +1,132 @@
+[2021-01-18 10:45:18] main.ERROR: Parameter validation failed
+#0 /var/www/html/magento2.4.1/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/magento2.4.1/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /var/www/html/magento2.4.1/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2021-01-18 10:45:35] main.ERROR: Parameter validation failed
+#0 /var/www/html/magento2.4.1/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/magento2.4.1/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /var/www/html/magento2.4.1/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2021-01-18 10:46:17] main.ERROR: Parameter validation failed
+#0 /var/www/html/magento2.4.1/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/magento2.4.1/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /var/www/html/magento2.4.1/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2021-01-18 10:46:52] main.ERROR: Parameter validation failed
+#0 /var/www/html/magento2.4.1/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/magento2.4.1/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /var/www/html/magento2.4.1/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2021-01-18 11:29:51] main.ERROR: Parameter validation failed
+#0 /var/www/html/magento2.4.1/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/magento2.4.1/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /var/www/html/magento2.4.1/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2021-01-18 11:30:25] main.ERROR: Parameter validation failed
+#0 /var/www/html/magento2.4.1/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/magento2.4.1/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /var/www/html/magento2.4.1/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2021-01-18 11:32:51] main.ERROR: Could not validate a connection to Elasticsearch. No alive nodes found in your cluster
+#0 /var/www/html/magento2.4.1/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /var/www/html/magento2.4.1/setup/src/Magento/Setup/Model/Installer.php(1184): Magento\Setup\Model\SearchConfig->saveConfiguration(Array)
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration(Array)
+#3 /var/www/html/magento2.4.1/setup/src/Magento/Setup/Model/Installer.php(388): call_user_func_array(Array, Array)
+#4 /var/www/html/magento2.4.1/setup/src/Magento/Setup/Console/Command/InstallCommand.php(231): Magento\Setup\Model\Installer->install(Array)
+#5 /var/www/html/magento2.4.1/vendor/symfony/console/Command/Command.php(255): Magento\Setup\Console\Command\InstallCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 /var/www/html/magento2.4.1/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /var/www/html/magento2.4.1/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2021-01-18 11:35:37] main.ERROR: Could not validate a connection to Elasticsearch. No alive nodes found in your cluster
+#0 /var/www/html/magento2.4.1/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /var/www/html/magento2.4.1/setup/src/Magento/Setup/Model/Installer.php(1184): Magento\Setup\Model\SearchConfig->saveConfiguration(Array)
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration(Array)
+#3 /var/www/html/magento2.4.1/setup/src/Magento/Setup/Model/Installer.php(388): call_user_func_array(Array, Array)
+#4 /var/www/html/magento2.4.1/setup/src/Magento/Setup/Console/Command/InstallCommand.php(231): Magento\Setup\Model\Installer->install(Array)
+#5 /var/www/html/magento2.4.1/vendor/symfony/console/Command/Command.php(255): Magento\Setup\Console\Command\InstallCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(1009): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(273): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 /var/www/html/magento2.4.1/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /var/www/html/magento2.4.1/vendor/symfony/console/Application.php(149): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /var/www/html/magento2.4.1/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2021-01-18 11:55:31] main.CRITICAL: The specified "/var/www/html/magento2.4.1/generated/code/Magento/Framework/App/Http/Interceptor.php.238345" file couldn't be written. Warning!file_put_contents(/var/www/html/magento2.4.1/generated/code/Magento/Framework/App/Http/Interceptor.php.238345): failed to open stream: Permission denied
+Class Magento\Framework\App\Http\Interceptor generation error: The requested class did not generate properly, because the 'generated' directory permission is read-only. If --- after running the 'bin/magento setup:di:compile' CLI command when the 'generated' directory permission is set to write --- the requested class did not generate properly, then you must add the generated class object to the signature of the related construct method, only. [] []
+[2021-01-18 11:55:31] main.CRITICAL: The specified "/var/www/html/magento2.4.1/generated/code/Magento/Framework/App/Http/Interceptor.php.238353" file couldn't be written. Warning!file_put_contents(/var/www/html/magento2.4.1/generated/code/Magento/Framework/App/Http/Interceptor.php.238353): failed to open stream: Permission denied
+Class Magento\Framework\App\Http\Interceptor generation error: The requested class did not generate properly, because the 'generated' directory permission is read-only. If --- after running the 'bin/magento setup:di:compile' CLI command when the 'generated' directory permission is set to write --- the requested class did not generate properly, then you must add the generated class object to the signature of the related construct method, only. [] []
+[2021-01-18 11:56:48] main.CRITICAL: The specified "/var/www/html/magento2.4.1/generated/code/Magento/Framework/App/Http/Interceptor.php.237652" file couldn't be written. Warning!file_put_contents(/var/www/html/magento2.4.1/generated/code/Magento/Framework/App/Http/Interceptor.php.237652): failed to open stream: Permission denied
+Class Magento\Framework\App\Http\Interceptor generation error: The requested class did not generate properly, because the 'generated' directory permission is read-only. If --- after running the 'bin/magento setup:di:compile' CLI command when the 'generated' directory permission is set to write --- the requested class did not generate properly, then you must add the generated class object to the signature of the related construct method, only. [] []
+[2021-01-18 11:56:48] main.CRITICAL: The specified "/var/www/html/magento2.4.1/generated/code/Magento/Framework/App/Http/Interceptor.php.238345" file couldn't be written. Warning!file_put_contents(/var/www/html/magento2.4.1/generated/code/Magento/Framework/App/Http/Interceptor.php.238345): failed to open stream: Permission denied
+Class Magento\Framework\App\Http\Interceptor generation error: The requested class did not generate properly, because the 'generated' directory permission is read-only. If --- after running the 'bin/magento setup:di:compile' CLI command when the 'generated' directory permission is set to write --- the requested class did not generate properly, then you must add the generated class object to the signature of the related construct method, only. [] []
+[2021-01-18 11:57:33] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 11:57:33] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 11:57:39] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 11:57:39] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 11:57:41] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 11:57:41] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 11:57:48] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 11:57:48] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 11:58:19] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 11:58:19] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:11:13] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:11:13] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:11:37] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:11:37] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:11:42] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:11:42] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:11:51] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:11:51] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:12:33] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:12:33] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:14:50] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:14:50] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:14:52] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:14:52] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:15:19] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:15:19] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:48:52] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 12:48:52] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 13:51:02] main.CRITICAL: TypeError: setcookie() expects parameter 3 to be integer, array given in /var/www/html/magento2.4.1/vendor/magento/framework/Stdlib/Cookie/PhpCookieManager.php:152
+Stack trace:
+#0 /var/www/html/magento2.4.1/vendor/magento/framework/Stdlib/Cookie/PhpCookieManager.php(152): setcookie('form_key', 'hnAHhc9bBmOue29...', Array)
+#1 /var/www/html/magento2.4.1/vendor/magento/framework/Stdlib/Cookie/PhpCookieManager.php(123): Magento\Framework\Stdlib\Cookie\PhpCookieManager->setCookie('form_key', 'hnAHhc9bBmOue29...', Array)
+#2 /var/www/html/magento2.4.1/vendor/magento/framework/App/PageCache/FormKey.php(76): Magento\Framework\Stdlib\Cookie\PhpCookieManager->setPublicCookie('form_key', 'hnAHhc9bBmOue29...', Object(Magento\Framework\Stdlib\Cookie\PublicCookieMetadata))
+#3 /var/www/html/magento2.4.1/vendor/magento/module-page-cache/Plugin/RegisterFormKeyFromCookie.php(106): Magento\Framework\App\PageCache\FormKey->set('hnAHhc9bBmOue29...', Object(Magento\Framework\Stdlib\Cookie\PublicCookieMetadata))
+#4 /var/www/html/magento2.4.1/vendor/magento/module-page-cache/Plugin/RegisterFormKeyFromCookie.php(78): Magento\PageCache\Plugin\RegisterFormKeyFromCookie->updateCookieFormKey('hnAHhc9bBmOue29...')
+#5 /var/www/html/magento2.4.1/vendor/magento/framework/Interception/Interceptor.php(121): Magento\PageCache\Plugin\RegisterFormKeyFromCookie->beforeDispatch(Object(Magento\Framework\App\FrontController\Interceptor), Object(Magento\Framework\App\Request\Http))
+#6 /var/www/html/magento2.4.1/vendor/magento/module-page-cache/Model/App/FrontController/BuiltinPlugin.php(75): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}(Object(Magento\Framework\App\Request\Http))
+#7 /var/www/html/magento2.4.1/vendor/magento/framework/Interception/Interceptor.php(135): Magento\PageCache\Model\App\FrontController\BuiltinPlugin->aroundDispatch(Object(Magento\Framework\App\FrontController\Interceptor), Object(Closure), Object(Magento\Framework\App\Request\Http))
+#8 /var/www/html/magento2.4.1/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}(Object(Magento\Framework\App\Request\Http))
+#9 /var/www/html/magento2.4.1/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins('dispatch', Array, Array)
+#10 /var/www/html/magento2.4.1/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch(Object(Magento\Framework\App\Request\Http))
+#11 /var/www/html/magento2.4.1/vendor/magento/framework/App/Bootstrap.php(263): Magento\Framework\App\Http->launch()
+#12 /var/www/html/magento2.4.1/pub/index.php(40): Magento\Framework\App\Bootstrap->run(Object(Magento\Framework\App\Http\Interceptor))
+#13 {main} [] []
+[2021-01-18 13:51:02] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 13:51:02] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 13:52:59] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 13:52:59] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 13:53:01] main.CRITICAL: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
+[2021-01-18 13:53:01] main.ERROR: Type Error occurred when creating object: Magento\Framework\Session\Generic\Interceptor, setcookie() expects parameter 3 to be integer, array given [] []
